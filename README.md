@@ -15,7 +15,7 @@ Welcome to the repository for the *5-Day Generative AI Intensive*, an online wor
   Adapting MLOps for Gen AI and using Vertex AI tools for foundation models.
 
 ## Getting Started
-1. Clone the repo: `git clone https://github.com/jamshedali18/Generative-AI-Intensive-Nov2025.git`
+1. Clone the repo: `git clone https://github.com/jamshedali18/GoogleGenAI-Intensive.git`
 
 ## Technologies
 - Primary language: Python 
